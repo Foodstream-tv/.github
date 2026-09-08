@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://www.foodstream.live">
+<a href="https://www.foodstream.tv">
     <img src="./logo.png" alt="Foodstream" title="Foodstream" width="200"/>
 </a>
 
