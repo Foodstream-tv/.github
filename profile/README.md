@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.foodstream.tv">
-    <img src="./logo.png" alt="Foodstream" title="Foodstream" width="200"/>
+    <img src="./logo-new.png" alt="Foodstream" title="Foodstream" width="200"/>
 </a>
 
 # Foodstream [Organization](#)
