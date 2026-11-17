@@ -12,7 +12,21 @@
 
 </div>
 
-Foodstream is a live streaming platform for food recipes. Cooks go live from their browser or their phone, viewers watch and chat while the dish comes together, and every live stays available as a replay. A cook can invite co-streamers to cook the same recipe together, and lives can be scheduled in advance.
+Foodstream is a live streaming platform for food recipes. Cooks go live from their browser or their phone, viewers watch and chat while the dish comes together, and every live stays available as a replay.
+
+<p align="center">
+  <img src="./screenshots/home.jpg" alt="The Foodstream home page" width="860"/>
+</p>
+
+## How it works
+
+1. **Prepare** a live in the Studio: title, recipe, ingredients and steps, a thumbnail. A recipe can be imported from a link.
+2. **Go live**, now or at a scheduled time, and invite co-streamers to cook the same recipe together.
+3. **Watch and chat** in real time, then **replay** any past live.
+
+<p align="center">
+  <img src="./screenshots/studio.jpg" alt="The live Studio" width="860"/>
+</p>
 
 ## Repositories
 
